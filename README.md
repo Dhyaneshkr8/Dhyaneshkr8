@@ -2,8 +2,6 @@
 
 Welcome to my GitHub! I'm a **Frontend Software Engineer** passionate about building scalable web applications and exploring cutting-edge technologies.
 
----
-
 ## 🎯 About Me
 
 I'm a **Frontend Engineer with 3 years of experience** building enterprise-scale React applications at **Zuora**. I specialize in creating secure, performant, and user-friendly web interfaces.
@@ -15,7 +13,6 @@ I'm a **Frontend Engineer with 3 years of experience** building enterprise-scale
 - 👥 **Mentor** - Guiding junior engineers on TypeScript and Web Components best practices
 - 🏆 **Top 15 Frontend Contributor** at Zuora
 
----
 
 ## 💼 What I Do
 
@@ -32,7 +29,6 @@ I'm a **Frontend Engineer with 3 years of experience** building enterprise-scale
 - **Custom Logic Functions** - Monaco Editor-based validation rules UI with 40% faster time-to-value
 - **Related Objects Table** - Cross-platform Web Component improving data visibility by 20%
 
----
 
 ## 💻 Tech Stack
 
@@ -68,7 +64,6 @@ I'm a **Frontend Engineer with 3 years of experience** building enterprise-scale
 ![Claude](https://img.shields.io/badge/Claude-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 🎓 Education
 
@@ -78,19 +73,16 @@ Bachelor of Technology in Instrumentation and Control Engineering
 
 **Key Coursework:** Data Structures & Algorithms • Database Management • Operating Systems • Digital Electronics
 
----
 
 ## 💡 Key Skills
 
 | Category | Skills |
 |----------|--------|
 | **Languages** | JavaScript • TypeScript • C++ • HTML • CSS |
-| **Frontend** | React (Hooks, Context, Class Components) • Web Components • Micro-frontend Architecture |
-| **State Management** | Redux • Context API • TanStack Query • React Hooks |
-| **Component Libraries** | Material UI • Storybook • Accessibility (a11y) |
+| **Frontend** | React (Hooks, Context, Class Components) • Web Components • Micro-frontend Architecture • Redux |
+| **Component Libraries** | Material UI • Storybook |
 | **Testing** | Jest • React Testing Library • Unit & Integration Testing |
 | **Databases** | MongoDB • PostgreSQL |
-| **Architecture** | System Design • Component Architecture • Design Patterns • Scalability |
 | **DevOps** | Git • GitHub • CI/CD Pipelines • Agile/Scrum |
 
 ---
