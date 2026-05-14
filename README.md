@@ -26,7 +26,7 @@ I'm a **Frontend Engineer with 3 years of experience** building enterprise-scale
 - Mentoring junior engineers and establishing code quality standards
 - Optimizing performance through critical rendering path improvements
 
-### Recent Projects
+### Recent Projects (Zuora)
 - **Data Warehouse Connectors** - Built self-service onboarding system reducing setup time to 1 hour
 - **Object Manager Platform** - Unified UI for 30+ internal teams, reducing support tickets by 25%
 - **Custom Logic Functions** - Monaco Editor-based validation rules UI with 40% faster time-to-value
