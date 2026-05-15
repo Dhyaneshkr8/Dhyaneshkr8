@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Dhyanesh 👋
+# Hi, I'm Dhyanesh 👋
 
 Welcome to my GitHub! I'm a **Frontend Software Engineer** passionate about building scalable web applications and exploring cutting-edge technologies.
 
